@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     box-sizing: border-box;
     padding: 0;
@@ -32,4 +33,52 @@
     margin-top: 100px;
     margin-left: 25px;
     margin-bottom: 50px;
+=======
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.text{
+    font-size: 13px;
+}
+
+
+.headlineH1{
+    font-size: 50px;
+}
+.container1{
+    height: 800px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 25px;
+   margin-bottom: 10px;
+}
+
+.col{
+    margin-top: 75px;
+}
+.container2{
+    height: 300px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+
+.container3{
+    height: 300px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+
+.container4{
+    height: 300px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 100px;
+   margin-bottom: 50px;
+>>>>>>> 08b6f1e2de020b12d983caa8bae10ba22312103f
 }
