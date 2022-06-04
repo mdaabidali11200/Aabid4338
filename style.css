@@ -3,6 +3,33 @@
     padding: 0;
     margin: 0;
 }
+
+.left{
+    margin-left: 50px;
+}
+
 .text{
     font-size: 13px;
+    font-weight: bold;
+}
+.header{
+    font-weight: bold;
+    font-size: 12.50px;
+}
+
+.navbar{
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchtext{
+    height: 40px;
+    width: 300px;
+}
+
+.headlineH1{
+    margin-top: 100px;
+    margin-left: 25px;
+    margin-bottom: 50px;
 }
