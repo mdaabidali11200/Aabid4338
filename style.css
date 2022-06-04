@@ -6,3 +6,42 @@
 .text{
     font-size: 13px;
 }
+
+
+.headlineH1{
+    font-size: 50px;
+}
+.container1{
+    height: 800px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 25px;
+   margin-bottom: 10px;
+}
+
+.col{
+    margin-top: 75px;
+}
+.container2{
+    height: 300px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+
+.container3{
+    height: 300px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+
+.container4{
+    height: 300px;
+    width: 1366px;
+    background-color: #fff;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
