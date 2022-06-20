@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     box-sizing: border-box;
     padding: 0;
@@ -43,12 +42,29 @@
     
 }
 
-
 .headlineH1{
     font-size: 30px; 
 }
 
-body{
-    row-gap: 0px;
-    column-gap: 0px;
+main{
+    height: 12766px;
+    width: 100%;
+    background-color: rgb(226, 19, 19)(250, 248, 248);
+} 
+
+.gurantee{
+    font-weight: bolder;
 }
+
+
+
+
+/* .onE{
+    height: 239px;
+    width: 1301px;
+    background-color: rgb(230, 54, 54);
+    column-gap: 0px;
+} */
+
+
+
