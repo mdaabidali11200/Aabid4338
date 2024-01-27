@@ -1,1 +1,3 @@
-Use language in this website Html,Css & Jawascript.
+HTML
+CSS 
+JAWASCRIPT
